@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Working in Municipal Finance for The City of Greeley Water and Sewer Department, Greeley CO.
+
+Previously was a university professor (and sometime Associate Dean and Department Chair) in mathematics, statistics, and CS. Research in statistical physics (see some of my research code for combinatorics here). 
+
+Exploring and getting to know Mastadon, find me at: <a rel="me" href="https://nerdculture.de/@virgilpierce">Mastodon</a>
